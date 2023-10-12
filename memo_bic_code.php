@@ -12,7 +12,7 @@
     <title>Bic code 기록</title>
     <meta charset='UTF-8'>
     <style>
-        <!-- (이전 CSS 코드) -->
+        /* <!-- (이전 CSS 코드) --> */
     </style>
 </head>
 <body>
