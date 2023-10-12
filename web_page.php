@@ -1,5 +1,5 @@
 <?php  
-    include "21Lih.php";
+    include "warning.php";
     
     // 테이블 구조 변경 쿼리 실행
     $query_alter = "ALTER TABLE bic MODIFY 작성시간 TIMESTAMP DEFAULT CURRENT_TIMESTAMP";   
