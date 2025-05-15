@@ -1,4 +1,4 @@
-# 🚢 BIC_Code_Recognition
+# 🚢 Container_Code_Inspector
 > 항만 컨테이너 검수를 자동화해 물류 처리의 정확성과 효율을 높이는 AI 기반 시스템입니다.
 
 ## 프로젝트 개요 
